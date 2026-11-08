@@ -1,0 +1,22 @@
+# Xilinx Vivado generated files / project output
+*.jou
+*.log
+*.str
+*.bit
+*.ltx
+*.dcp
+.Xil/
+*.cache/
+*.hw/
+*.sim/
+*.runs/
+*.ip_user_files/
+*.gen/
+*.srcs/
+*.xpr
+vivado*.backup.*
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*~
